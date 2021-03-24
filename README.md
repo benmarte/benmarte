@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm benmarte and this is my github page
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmarte)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **benmarte/benmarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
