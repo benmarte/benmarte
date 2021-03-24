@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm benmarte and this is my github page
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmarte)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=benmarte&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
